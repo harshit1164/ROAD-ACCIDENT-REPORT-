@@ -33,20 +33,14 @@ Matplotlib & Seaborn for stunning visualizations
 
 📁 Dataset Attributes
 State Name
-
 City Name
-
 Date & Time
-
 Accident Severity
-
 Vehicle Type
-
 Driver Profile
-
 Weather Conditions
-
 Road Type & Conditions
+
 
 🎯 Objective
 To analyze road accident data with the aim of:
@@ -57,16 +51,5 @@ Identifying contributing factors to accidents
 
 Highlighting areas that require immediate policy intervention
 
-🚀 How to Run
-bash
-Copy
-Edit
-git clone https://github.com/your-username/road-accident-analysis.git
-cd road-accident-analysis
-jupyter notebook "ACCIDENT REPORT ANALYSIS.ipynb"
-📣 Author
-Abhay
-📍 Data Science Enthusiast | Passionate about Real-World Applications
-📫 Connect with me for collaborations, insights, or suggestions!
 
 ⭐ If you find this project useful, give it a star and share it with others!
